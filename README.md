@@ -9,3 +9,6 @@ and classical ML methods.
 **The Logistic Regression model**, trained on TF-IDF-transformed comment tokens, reached an accuracy of 85.66%. It demonstrated reliable performance in classifying cyberbullying comments and laid the foundation for more nuanced detection methods.
 
 Overall, the project contributes to ethical AI ML development and offers a scalable starting point for real-world cyberbullying mitigation tools.
+
+##Report
+https://drive.google.com/file/d/1zrX0L9TT20o2RqzohI4seIaWg9Oib9Zb/view?usp=sharing
